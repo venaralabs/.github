@@ -51,8 +51,8 @@ https://venaralabs.com
 🚀 **Prompt Intelligence Platform**  
 https://pip.venaralabs.com
 
-**Visual Runtime Intelligence Platform**  
-https://vri.veneralabs.com
+🚀 **Visual Runtime Intelligence Platform**  
+https://vri.venaralabs.com/#home
 ---
 
 **Building practical enterprise intelligence for AI and beyond.**
